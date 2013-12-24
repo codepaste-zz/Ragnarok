@@ -1,0 +1,4 @@
+rpc 9880
+p2p 9881
+testnet 9981
+testnet 9980

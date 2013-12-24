@@ -1,0 +1,9 @@
+Tutorial from
+https://andarazoroflove.org/how-to-create-alt-coin-scrypt-clones-for-fun-and-profit-bitcoin-litecoin-secrets-exposed/
+http://devtome.com/doku.php?id=scrypt_altcoin_cloning_guide&#how_to_clone_scrypt_based_altcoins_for_fun_and_profit
+
+I used Jedit to do multiple file word replacement
+
+used -addnode instead of -connect
+
+Looking at more of a web interface... 
